@@ -1,0 +1,15 @@
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+MS_UltraSonico	KEYWORD1
+ultrasonico	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+read	KEYWORD2
+distance	KEYWORD2
+duration	KEYWORD2
+
